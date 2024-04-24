@@ -1,0 +1,713 @@
+ID,Año_del_hecho,Sexo_de_la_victima,Grupo_de_edad_de_la_victima,Mes_del_hecho,Dia_del_hecho,Departamento_del_hecho,Municipio_del_hecho,Lesion_fatal_de_causa_externa,Estado
+1,2016,Hombre,(25 a 29),Enero,Jueves,Meta,Acacías,Violenta - Homicidios,Datos definitivos
+2,2016,Hombre,(20 a 24),Enero,Miércoles,Meta,Acacías,Violenta - Homicidios,Datos definitivos
+3,2016,Hombre,(65 a 69),Enero,Miércoles,Meta,Acacías,Violenta - Homicidios,Datos definitivos
+4,2016,Mujer,(10 a 14),Enero,Miércoles,Meta,Acacías,Violenta - Homicidios,Datos definitivos
+5,2016,Hombre,(50 a 54),Enero,Martes,Cesar,Aguachica,Violenta - Homicidios,Datos definitivos
+6,2016,Hombre,(20 a 24),Enero,Miércoles,Norte de Santander,Teorama,Violenta - Homicidios,Datos definitivos
+7,2016,Hombre,(50 a 54),Enero,Lunes,Cesar,Aguachica,Violenta - Homicidios,Datos definitivos
+8,2016,Hombre,(40 a 44),Enero,Viernes,Cesar,Aguachica,Violenta - Homicidios,Datos definitivos
+9,2016,Hombre,(40 a 44),Enero,Viernes,Antioquia,Andes,Violenta - Homicidios,Datos definitivos
+10,2016,Hombre,(20 a 24),Enero,Domingo,Antioquia,Andes,Violenta - Homicidios,Datos definitivos
+11,2016,Hombre,(20 a 24),Enero,Sábado,Antioquia,Apartadó,Violenta - Homicidios,Datos definitivos
+12,2016,Hombre,(45 a 49),Enero,Miércoles,Antioquia,Apartadó,Violenta - Homicidios,Datos definitivos
+13,2016,Hombre,(15 a 17),Enero,Domingo,Antioquia,Apartadó,Violenta - Homicidios,Datos definitivos
+14,2016,Hombre,(18 a 19),Enero,Domingo,Antioquia,Apartadó,Violenta - Homicidios,Datos definitivos
+15,2016,Hombre,(35 a 39),Enero,Sábado,Risaralda,Apía,Violenta - Homicidios,Datos definitivos
+16,2016,Hombre,(35 a 39),Enero,Viernes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+17,2016,Hombre,(30 a 34),Enero,Viernes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+18,2016,Hombre,(30 a 34),Enero,Viernes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+19,2016,Hombre,(25 a 29),Enero,Sábado,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+20,2016,Hombre,(50 a 54),Enero,Martes,Quindío,Calarcá,Violenta - Homicidios,Datos definitivos
+21,2016,Hombre,(30 a 34),Enero,Miércoles,Quindío,Calarcá,Violenta - Homicidios,Datos definitivos
+22,2016,Hombre,(20 a 24),Enero,Miércoles,Quindío,Montenegro,Violenta - Homicidios,Datos definitivos
+23,2016,Hombre,(15 a 17),Enero,Miércoles,Quindío,Montenegro,Violenta - Homicidios,Datos definitivos
+24,2016,Hombre,(20 a 24),Enero,Sábado,Quindío,Montenegro,Violenta - Homicidios,Datos definitivos
+25,2016,Hombre,(18 a 19),Enero,Sábado,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+26,2016,Hombre,(55 a 59),Enero,Martes,Quindío,Montenegro,Violenta - Homicidios,Datos definitivos
+27,2016,Hombre,(40 a 44),Enero,Jueves,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+28,2016,Hombre,(70 a 74),Enero,Martes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+29,2016,Hombre,(25 a 29),Enero,Viernes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+30,2016,Hombre,(30 a 34),Enero,Sábado,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+31,2016,Hombre,(25 a 29),Enero,Sábado,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+32,2016,Hombre,(15 a 17),Enero,Domingo,Quindío,Calarcá,Violenta - Homicidios,Datos definitivos
+33,2016,Hombre,(20 a 24),Enero,Domingo,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+34,2016,Hombre,(40 a 44),Enero,Domingo,Quindío,Calarcá,Violenta - Homicidios,Datos definitivos
+35,2016,Hombre,(50 a 54),Enero,Lunes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+36,2016,Hombre,(50 a 54),Enero,Lunes,Quindío,Montenegro,Violenta - Homicidios,Datos definitivos
+37,2016,Hombre,(40 a 44),Enero,Martes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+38,2016,Hombre,(30 a 34),Enero,Martes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+39,2016,Hombre,(20 a 24),Enero,Martes,Quindío,Calarcá,Violenta - Homicidios,Datos definitivos
+40,2016,Hombre,(30 a 34),Enero,Miércoles,Quindío,Quimbaya,Violenta - Homicidios,Datos definitivos
+41,2016,Hombre,(25 a 29),Enero,Viernes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+42,2016,Hombre,(40 a 44),Enero,Sábado,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+43,2016,Mujer,(40 a 44),Enero,Domingo,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+44,2016,Hombre,(20 a 24),Enero,Domingo,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+45,2016,Hombre,(20 a 24),Enero,Lunes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+46,2016,Hombre,(10 a 14),Enero,Martes,Quindío,Quimbaya,Violenta - Homicidios,Datos definitivos
+47,2016,Hombre,(20 a 24),Enero,Martes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+48,2016,Hombre,(20 a 24),Enero,Miércoles,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+49,2016,Hombre,(25 a 29),Enero,Jueves,Quindío,Génova,Violenta - Homicidios,Datos definitivos
+50,2016,Hombre,(45 a 49),Enero,Viernes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+51,2016,Hombre,(20 a 24),Enero,Viernes,Quindío,La Tebaida,Violenta - Homicidios,Datos definitivos
+52,2016,Hombre,(35 a 39),Enero,Jueves,Santander,Barbosa,Violenta - Homicidios,Datos definitivos
+53,2016,Hombre,(18 a 19),Enero,Viernes,Santander,Barrancabermeja,Violenta - Homicidios,Datos definitivos
+54,2016,Hombre,(18 a 19),Enero,Sábado,Santander,Barrancabermeja,Violenta - Homicidios,Datos definitivos
+55,2016,Hombre,(25 a 29),Enero,Domingo,Santander,Puerto Parra,Violenta - Homicidios,Datos definitivos
+56,2016,Hombre,(30 a 34),Enero,Domingo,Santander,Barrancabermeja,Violenta - Homicidios,Datos definitivos
+57,2016,Hombre,(30 a 34),Enero,Martes,Santander,Barrancabermeja,Violenta - Homicidios,Datos definitivos
+58,2016,Hombre,(65 a 69),Enero,Lunes,Santander,Landázuri,Violenta - Homicidios,Datos definitivos
+59,2016,Hombre,(20 a 24),Enero,Sábado,Santander,Barrancabermeja,Violenta - Homicidios,Datos definitivos
+60,2016,Mujer,(50 a 54),Enero,Viernes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+61,2016,Hombre,(25 a 29),Enero,Sábado,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+62,2016,Hombre,(25 a 29),Enero,Domingo,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+63,2016,Hombre,(30 a 34),Enero,Domingo,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+64,2016,Hombre,(18 a 19),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+65,2016,Mujer,(25 a 29),Enero,Domingo,Magdalena,Santa Marta,Violenta - Homicidios,Datos definitivos
+66,2016,Hombre,(05 a 09),Enero,Domingo,Magdalena,Santa Marta,Violenta - Homicidios,Datos definitivos
+67,2016,Hombre,(30 a 34),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+68,2016,Hombre,(15 a 17),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+69,2016,Hombre,(25 a 29),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+70,2016,Hombre,(30 a 34),Enero,Miércoles,Atlántico,Santo Tomás,Violenta - Homicidios,Datos definitivos
+71,2016,Hombre,(20 a 24),Enero,Miércoles,Atlántico,Santo Tomás,Violenta - Homicidios,Datos definitivos
+72,2016,Hombre,(25 a 29),Enero,Jueves,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+73,2016,Hombre,(35 a 39),Enero,Viernes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+74,2016,Hombre,(30 a 34),Enero,Sábado,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+75,2016,Hombre,(30 a 34),Enero,Domingo,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+76,2016,Hombre,(20 a 24),Enero,Domingo,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+77,2016,Hombre,(45 a 49),Enero,Martes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+78,2016,Hombre,(18 a 19),Enero,Jueves,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+79,2016,Hombre,(35 a 39),Enero,Jueves,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+80,2016,Mujer,(60 a 64),Enero,Jueves,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+81,2016,Hombre,(15 a 17),Enero,Jueves,Magdalena,El Banco,Violenta - Homicidios,Datos definitivos
+82,2016,Hombre,(30 a 34),Enero,Viernes,Atlántico,Malambo,Violenta - Homicidios,Datos definitivos
+83,2016,Hombre,(60 a 64),Enero,Viernes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+84,2016,Hombre,(35 a 39),Enero,Viernes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+85,2016,Hombre,(40 a 44),Enero,Viernes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+86,2016,Hombre,(25 a 29),Enero,Sábado,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+87,2016,Hombre,(20 a 24),Enero,Sábado,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+88,2016,Hombre,(20 a 24),Enero,Domingo,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+89,2016,Hombre,(18 a 19),Enero,Domingo,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+90,2016,Hombre,(18 a 19),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+91,2016,Hombre,(20 a 24),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+92,2016,Hombre,(20 a 24),Enero,Domingo,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+93,2016,Hombre,(15 a 17),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+94,2016,Hombre,(35 a 39),Enero,Viernes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+95,2016,Mujer,(40 a 44),Enero,Viernes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+96,2016,Hombre,(20 a 24),Enero,Viernes,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+97,2016,Hombre,(25 a 29),Enero,Sábado,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+98,2016,Mujer,(15 a 17),Enero,Domingo,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+99,2016,Hombre,(30 a 34),Enero,Domingo,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+100,2016,Hombre,(18 a 19),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+101,2016,Hombre,(20 a 24),Enero,Domingo,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+102,2016,Hombre,(15 a 17),Enero,Martes,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+103,2016,Hombre,(25 a 29),Enero,Miércoles,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+104,2016,Hombre,(25 a 29),Enero,Miércoles,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+105,2016,Hombre,(20 a 24),Enero,Martes,Atlántico,Malambo,Violenta - Homicidios,Datos definitivos
+106,2016,Hombre,(40 a 44),Enero,Lunes,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+107,2016,Hombre,(30 a 34),Enero,Jueves,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+108,2016,Hombre,(30 a 34),Enero,Jueves,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+109,2016,Mujer,(10 a 14),Enero,Jueves,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+110,2016,Hombre,(30 a 34),Enero,Domingo,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+111,2016,Hombre,(30 a 34),Enero,Domingo,Atlántico,Soledad,Violenta - Homicidios,Datos definitivos
+112,2016,Hombre,(35 a 39),Enero,Domingo,Atlántico,Barranquilla,Violenta - Homicidios,Datos definitivos
+113,2016,Hombre,(25 a 29),Enero,Domingo,Antioquia,San Pedro de los Milagros,Violenta - Homicidios,Datos definitivos
+114,2016,Hombre,(50 a 54),Enero,Viernes,Antioquia,San Jerónimo,Violenta - Homicidios,Datos definitivos
+115,2016,Hombre,(15 a 17),Enero,Miércoles,Santander,El Playón,Violenta - Homicidios,Datos definitivos
+116,2016,Hombre,(30 a 34),Enero,Jueves,Santander,Bucaramanga,Violenta - Homicidios,Datos definitivos
+117,2016,Hombre,(30 a 34),Enero,Lunes,Santander,Cimitarra,Violenta - Homicidios,Datos definitivos
+118,2016,Hombre,(25 a 29),Enero,Domingo,Santander,Bucaramanga,Violenta - Homicidios,Datos definitivos
+119,2016,Hombre,(40 a 44),Enero,Miércoles,Santander,Bucaramanga,Violenta - Homicidios,Datos definitivos
+120,2016,Hombre,(15 a 17),Enero,Viernes,Arauca,Tame,Violenta - Homicidios,Datos definitivos
+121,2016,Hombre,(20 a 24),Enero,Viernes,Bolívar,San Pablo,Violenta - Homicidios,Datos definitivos
+122,2016,Hombre,(25 a 29),Enero,Domingo,Santander,Bucaramanga,Violenta - Homicidios,Datos definitivos
+123,2016,Hombre,(30 a 34),Enero,Domingo,Santander,Bucaramanga,Violenta - Homicidios,Datos definitivos
+124,2016,Hombre,(18 a 19),Enero,Martes,Santander,Bucaramanga,Violenta - Homicidios,Datos definitivos
+125,2016,Mujer,(25 a 29),Enero,Jueves,Santander,Bucaramanga,Violenta - Homicidios,Datos definitivos
+126,2016,Hombre,(25 a 29),Enero,Miércoles,Santander,Floridablanca,Violenta - Homicidios,Datos definitivos
+127,2016,Hombre,(25 a 29),Enero,Sábado,Santander,Bucaramanga,Violenta - Homicidios,Datos definitivos
+128,2016,Hombre,(35 a 39),Enero,Lunes,Valle del Cauca,Buenaventura,Violenta - Homicidios,Datos definitivos
+129,2016,Hombre,(18 a 19),Enero,Miércoles,Valle del Cauca,Buenaventura,Violenta - Homicidios,Datos definitivos
+130,2016,Hombre,(25 a 29),Enero,Lunes,Valle del Cauca,Buenaventura,Violenta - Homicidios,Datos definitivos
+131,2016,Hombre,(30 a 34),Enero,Martes,Valle del Cauca,Buenaventura,Violenta - Homicidios,Datos definitivos
+132,2016,Hombre,(50 a 54),Enero,Jueves,Valle del Cauca,Buenaventura,Violenta - Homicidios,Datos definitivos
+133,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Buenaventura,Violenta - Homicidios,Datos definitivos
+134,2016,Hombre,(15 a 17),Enero,Domingo,Valle del Cauca,Buenaventura,Violenta - Homicidios,Datos definitivos
+135,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Guacarí,Violenta - Homicidios,Datos definitivos
+136,2016,Hombre,(40 a 44),Enero,Domingo,Valle del Cauca,Guadalajara de Buga,Violenta - Homicidios,Datos definitivos
+137,2016,Hombre,(40 a 44),Enero,Martes,Valle del Cauca,Guadalajara de Buga,Violenta - Homicidios,Datos definitivos
+138,2016,Hombre,(35 a 39),Enero,Jueves,Valle del Cauca,Calima,Violenta - Homicidios,Datos definitivos
+139,2016,Hombre,(18 a 19),Enero,Sábado,Valle del Cauca,Calima,Violenta - Homicidios,Datos definitivos
+140,2016,Hombre,(50 a 54),Enero,Lunes,Valle del Cauca,Guacarí,Violenta - Homicidios,Datos definitivos
+141,2016,Hombre,(15 a 17),Enero,Lunes,Valle del Cauca,Guacarí,Violenta - Homicidios,Datos definitivos
+142,2016,Hombre,(30 a 34),Enero,Sábado,Valle del Cauca,Yotoco,Violenta - Homicidios,Datos definitivos
+143,2016,Hombre,(18 a 19),Enero,Martes,Valle del Cauca,Guadalajara de Buga,Violenta - Homicidios,Datos definitivos
+144,2016,Hombre,(15 a 17),Enero,Jueves,Valle del Cauca,Calima,Violenta - Homicidios,Datos definitivos
+145,2016,Hombre,(55 a 59),Enero,Sábado,Valle del Cauca,Guadalajara de Buga,Violenta - Homicidios,Datos definitivos
+146,2016,Hombre,(15 a 17),Enero,Domingo,Antioquia,Caicedo,Violenta - Homicidios,Datos definitivos
+147,2016,Hombre,(20 a 24),Enero,Sábado,Valle del Cauca,Caicedonia,Violenta - Homicidios,Datos definitivos
+148,2016,Hombre,(60 a 64),Enero,Domingo,Valle del Cauca,Sevilla,Violenta - Homicidios,Datos definitivos
+149,2016,Hombre,(80 y más),Enero,Jueves,Valle del Cauca,Caicedonia,Violenta - Homicidios,Datos definitivos
+150,2016,Hombre,(30 a 34),Enero,Domingo,Valle del Cauca,Sevilla,Violenta - Homicidios,Datos definitivos
+151,2016,Hombre,(40 a 44),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+152,2016,Hombre,(15 a 17),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+153,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+154,2016,Hombre,(40 a 44),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+155,2016,Hombre,(15 a 17),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+156,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+157,2016,Mujer,(30 a 34),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+158,2016,Hombre,(50 a 54),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+159,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+160,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+161,2016,Hombre,(25 a 29),Enero,Viernes,Valle del Cauca,Jamundí,Violenta - Homicidios,Datos definitivos
+162,2016,Hombre,(25 a 29),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+163,2016,Hombre,(25 a 29),Enero,Viernes,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+164,2016,Hombre,(40 a 44),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+165,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+166,2016,Hombre,(30 a 34),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+167,2016,Hombre,(20 a 24),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+168,2016,Hombre,(30 a 34),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+169,2016,Hombre,(15 a 17),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+170,2016,Hombre,(35 a 39),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+171,2016,Hombre,(20 a 24),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+172,2016,Hombre,(18 a 19),Enero,Lunes,Valle del Cauca,Jamundí,Violenta - Homicidios,Datos definitivos
+173,2016,Hombre,(35 a 39),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+174,2016,Mujer,(15 a 17),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+175,2016,Hombre,(20 a 24),Enero,Martes,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+176,2016,Hombre,(35 a 39),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+177,2016,Hombre,(40 a 44),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+178,2016,Hombre,(20 a 24),Enero,Miércoles,Valle del Cauca,Jamundí,Violenta - Homicidios,Datos definitivos
+179,2016,Hombre,(25 a 29),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+180,2016,Hombre,(35 a 39),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+181,2016,Hombre,(20 a 24),Enero,Martes,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+182,2016,Mujer,(20 a 24),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+183,2016,Hombre,(20 a 24),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+184,2016,Hombre,(18 a 19),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+185,2016,Mujer,(25 a 29),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+186,2016,Mujer,(20 a 24),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+187,2016,Hombre,(20 a 24),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+188,2016,Hombre,(35 a 39),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+189,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+190,2016,Hombre,(25 a 29),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+191,2016,Hombre,(35 a 39),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+192,2016,Hombre,(30 a 34),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+193,2016,Hombre,(20 a 24),Enero,Viernes,Cauca,Santander de Quilichao,Violenta - Homicidios,Datos definitivos
+194,2016,Hombre,(10 a 14),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+195,2016,Hombre,(18 a 19),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+196,2016,Mujer,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+197,2016,Hombre,(35 a 39),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+198,2016,Hombre,(25 a 29),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+199,2016,Hombre,(45 a 49),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+200,2016,Hombre,(25 a 29),Enero,Domingo,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+201,2016,Hombre,(40 a 44),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+202,2016,Hombre,(30 a 34),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+203,2016,Hombre,(20 a 24),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+204,2016,Hombre,(45 a 49),Enero,Martes,Valle del Cauca,Jamundí,Violenta - Homicidios,Datos definitivos
+205,2016,Hombre,(18 a 19),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+206,2016,Hombre,(20 a 24),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+207,2016,Hombre,(25 a 29),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+208,2016,Mujer,(20 a 24),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+209,2016,Hombre,(35 a 39),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+210,2016,Hombre,(25 a 29),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+211,2016,Hombre,(18 a 19),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+212,2016,Hombre,(18 a 19),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+213,2016,Hombre,(15 a 17),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+214,2016,Hombre,(65 a 69),Enero,Miércoles,Cauca,Guachené,Violenta - Homicidios,Datos definitivos
+215,2016,Hombre,(30 a 34),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+216,2016,Hombre,(20 a 24),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+217,2016,Hombre,(25 a 29),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+218,2016,Hombre,(20 a 24),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+219,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+220,2016,Hombre,(25 a 29),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+221,2016,Hombre,(25 a 29),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+222,2016,Hombre,(15 a 17),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+223,2016,Hombre,(15 a 17),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+224,2016,Hombre,(30 a 34),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+225,2016,Hombre,(35 a 39),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+226,2016,Hombre,(55 a 59),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+227,2016,Hombre,(40 a 44),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+228,2016,Mujer,(35 a 39),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+229,2016,Hombre,(40 a 44),Enero,Viernes,Valle del Cauca,Jamundí,Violenta - Homicidios,Datos definitivos
+230,2016,Hombre,(20 a 24),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+231,2016,Hombre,(15 a 17),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+232,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+233,2016,Hombre,(40 a 44),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+234,2016,Hombre,(40 a 44),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+235,2016,Hombre,(45 a 49),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+236,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+237,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+238,2016,Hombre,(35 a 39),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+239,2016,Hombre,(30 a 34),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+240,2016,Mujer,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+241,2016,Hombre,(20 a 24),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+242,2016,Hombre,(18 a 19),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+243,2016,Hombre,(20 a 24),Enero,Lunes,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+244,2016,Hombre,(70 a 74),Enero,Lunes,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+245,2016,Hombre,(20 a 24),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+246,2016,Hombre,(10 a 14),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+247,2016,Mujer,(20 a 24),Enero,Lunes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+248,2016,Hombre,(30 a 34),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+249,2016,Hombre,(50 a 54),Enero,Martes,Valle del Cauca,Candelaria,Violenta - Homicidios,Datos definitivos
+250,2016,Hombre,(20 a 24),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+251,2016,Hombre,(15 a 17),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+252,2016,Hombre,(35 a 39),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+253,2016,Hombre,(20 a 24),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+254,2016,Hombre,(20 a 24),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+255,2016,Hombre,(20 a 24),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+256,2016,Hombre,(30 a 34),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+257,2016,Hombre,(25 a 29),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+258,2016,Hombre,(25 a 29),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+259,2016,Hombre,(50 a 54),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+260,2016,Hombre,(35 a 39),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+261,2016,Hombre,(70 a 74),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+262,2016,Hombre,(40 a 44),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+263,2016,Hombre,(15 a 17),Enero,Miércoles,Cauca,Puerto Tejada,Violenta - Homicidios,Datos definitivos
+264,2016,Hombre,(25 a 29),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+265,2016,Hombre,(15 a 17),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+266,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+267,2016,Hombre,(15 a 17),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+268,2016,Hombre,(18 a 19),Enero,Viernes,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+269,2016,Hombre,(30 a 34),Enero,Sábado,Cauca,Miranda,Violenta - Homicidios,Datos definitivos
+270,2016,Hombre,(40 a 44),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+271,2016,Mujer,(40 a 44),Enero,Sábado,Valle del Cauca,Jamundí,Violenta - Homicidios,Datos definitivos
+272,2016,Hombre,(15 a 17),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+273,2016,Hombre,(60 a 64),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+274,2016,Mujer,(30 a 34),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+275,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+276,2016,Hombre,(18 a 19),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+277,2016,Hombre,(18 a 19),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+278,2016,Mujer,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+279,2016,Hombre,(20 a 24),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+280,2016,Mujer,(25 a 29),Enero,Sábado,Valle del Cauca,Jamundí,Violenta - Homicidios,Datos definitivos
+281,2016,Mujer,(55 a 59),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+282,2016,Hombre,(30 a 34),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+283,2016,Hombre,(30 a 34),Enero,Domingo,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+284,2016,Hombre,(25 a 29),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+285,2016,Hombre,(35 a 39),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+286,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+287,2016,Mujer,(20 a 24),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+288,2016,Hombre,(70 a 74),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+289,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+290,2016,Hombre,(30 a 34),Enero,Lunes,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+291,2016,Hombre,(35 a 39),Enero,Lunes,Valle del Cauca,Jamundí,Violenta - Homicidios,Datos definitivos
+292,2016,Hombre,(35 a 39),Enero,Martes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+293,2016,Hombre,(20 a 24),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+294,2016,Hombre,(35 a 39),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+295,2016,Hombre,(20 a 24),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+296,2016,Hombre,(15 a 17),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+297,2016,Hombre,(25 a 29),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+298,2016,Hombre,(20 a 24),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+299,2016,Hombre,(15 a 17),Enero,Jueves,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+300,2016,Hombre,(15 a 17),Enero,Jueves,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+301,2016,Hombre,(25 a 29),Enero,Jueves,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+302,2016,Hombre,(18 a 19),Enero,Viernes,Valle del Cauca,Buenaventura,Violenta - Homicidios,Datos definitivos
+303,2016,Hombre,(30 a 34),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+304,2016,Hombre,(45 a 49),Enero,Viernes,Valle del Cauca,Yumbo,Violenta - Homicidios,Datos definitivos
+305,2016,Hombre,(20 a 24),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+306,2016,Hombre,(18 a 19),Enero,Viernes,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+307,2016,Hombre,(25 a 29),Enero,Sábado,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+308,2016,Hombre,(30 a 34),Enero,Miércoles,Cauca,Santander de Quilichao,Violenta - Homicidios,Datos definitivos
+309,2016,Hombre,(15 a 17),Enero,Sábado,Valle del Cauca,Vijes,Violenta - Homicidios,Datos definitivos
+310,2016,Hombre,(20 a 24),Enero,Viernes,Cauca,Santander de Quilichao,Violenta - Homicidios,Datos definitivos
+311,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+312,2016,Hombre,(18 a 19),Enero,Miércoles,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+313,2016,Hombre,(18 a 19),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+314,2016,Hombre,(15 a 17),Enero,Domingo,Valle del Cauca,Cali,Violenta - Homicidios,Datos definitivos
+315,2016,Mujer,(15 a 17),Enero,Viernes,Bolívar,El Carmen de Bolívar,Violenta - Homicidios,Datos definitivos
+316,2016,Hombre,(25 a 29),Enero,Viernes,Bolívar,Arjona,Violenta - Homicidios,Datos definitivos
+317,2016,Hombre,(25 a 29),Enero,Viernes,Bolívar,Arjona,Violenta - Homicidios,Datos definitivos
+318,2016,Hombre,(25 a 29),Enero,Viernes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+319,2016,Hombre,(18 a 19),Enero,Viernes,Bolívar,Turbaco,Violenta - Homicidios,Datos definitivos
+320,2016,Hombre,(20 a 24),Enero,Viernes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+321,2016,Hombre,(45 a 49),Enero,Lunes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+322,2016,Hombre,(25 a 29),Enero,Lunes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+323,2016,Hombre,(25 a 29),Enero,Miércoles,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+324,2016,Hombre,(25 a 29),Enero,Miércoles,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+325,2016,Hombre,(35 a 39),Enero,Jueves,Bolívar,Arjona,Violenta - Homicidios,Datos definitivos
+326,2016,Mujer,(25 a 29),Enero,Viernes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+327,2016,Hombre,(35 a 39),Enero,Viernes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+328,2016,Hombre,(15 a 17),Enero,Viernes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+329,2016,Hombre,(40 a 44),Enero,Sábado,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+330,2016,Hombre,(25 a 29),Enero,Sábado,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+331,2016,Hombre,(25 a 29),Enero,Domingo,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+332,2016,Hombre,(40 a 44),Enero,Martes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+333,2016,Hombre,(25 a 29),Enero,Miércoles,Bolívar,Santa Catalina,Violenta - Homicidios,Datos definitivos
+334,2016,Hombre,(45 a 49),Enero,Miércoles,Bolívar,Santa Catalina,Violenta - Homicidios,Datos definitivos
+335,2016,Hombre,(35 a 39),Enero,Jueves,Bolívar,Turbaco,Violenta - Homicidios,Datos definitivos
+336,2016,Hombre,(25 a 29),Enero,Jueves,Bolívar,Turbaco,Violenta - Homicidios,Datos definitivos
+337,2016,Hombre,(30 a 34),Enero,Sábado,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+338,2016,Hombre,(20 a 24),Enero,Sábado,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+339,2016,Hombre,(70 a 74),Enero,Domingo,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+340,2016,Hombre,(35 a 39),Enero,Lunes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+341,2016,Hombre,(20 a 24),Enero,Martes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+342,2016,Hombre,(15 a 17),Enero,Martes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+343,2016,Hombre,(18 a 19),Enero,Martes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+344,2016,Hombre,(15 a 17),Enero,Martes,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+345,2016,Hombre,(25 a 29),Enero,Jueves,Bolívar,Cartagena de Indias,Violenta - Homicidios,Datos definitivos
+346,2016,Hombre,(25 a 29),Enero,Viernes,Valle del Cauca,Obando,Violenta - Homicidios,Datos definitivos
+347,2016,Hombre,(45 a 49),Enero,Viernes,Valle del Cauca,El Águila,Violenta - Homicidios,Datos definitivos
+348,2016,Hombre,(35 a 39),Enero,Viernes,Valle del Cauca,Cartago,Violenta - Homicidios,Datos definitivos
+349,2016,Hombre,(15 a 17),Enero,Miércoles,Valle del Cauca,Cartago,Violenta - Homicidios,Datos definitivos
+350,2016,Hombre,(35 a 39),Enero,Jueves,Valle del Cauca,Cartago,Violenta - Homicidios,Datos definitivos
+351,2016,Hombre,(30 a 34),Enero,Viernes,Valle del Cauca,Alcalá,Violenta - Homicidios,Datos definitivos
+352,2016,Hombre,(50 a 54),Enero,Lunes,Valle del Cauca,Obando,Violenta - Homicidios,Datos definitivos
+353,2016,Hombre,(35 a 39),Enero,Viernes,Valle del Cauca,Cartago,Violenta - Homicidios,Datos definitivos
+354,2016,Hombre,(20 a 24),Enero,Lunes,Valle del Cauca,Obando,Violenta - Homicidios,Datos definitivos
+355,2016,Hombre,(75 a 79),Enero,Viernes,Valle del Cauca,Argelia,Violenta - Homicidios,Datos definitivos
+356,2016,Hombre,(18 a 19),Enero,Sábado,Antioquia,Caucasia,Violenta - Homicidios,Datos definitivos
+357,2016,Hombre,(20 a 24),Enero,Jueves,Córdoba,Cereté,Violenta - Homicidios,Datos definitivos
+358,2016,Hombre,(20 a 24),Enero,Miércoles,Córdoba,Cereté,Violenta - Homicidios,Datos definitivos
+359,2016,Mujer,(40 a 44),Enero,Sábado,Antioquia,Chigorodó,Violenta - Homicidios,Datos definitivos
+360,2016,Hombre,(25 a 29),Enero,Viernes,Caldas,Chinchiná,Violenta - Homicidios,Datos definitivos
+361,2016,Mujer,(35 a 39),Enero,Viernes,Caldas,Chinchiná,Violenta - Homicidios,Datos definitivos
+362,2016,Hombre,(30 a 34),Enero,Viernes,Cesar,Curumaní,Violenta - Homicidios,Datos definitivos
+363,2016,Hombre,(40 a 44),Enero,Sábado,Cundinamarca,Villapinzón,Violenta - Homicidios,Datos definitivos
+364,2016,Mujer,Por determinar,Enero,Miércoles,Cundinamarca,Guatavita,Violenta - Homicidios,Datos definitivos
+365,2016,Hombre,(45 a 49),Enero,Sábado,Magdalena,Zona Bananera,Violenta - Homicidios,Datos definitivos
+366,2016,Hombre,(50 a 54),Enero,Miércoles,Magdalena,Ciénaga,Violenta - Homicidios,Datos definitivos
+367,2016,Hombre,(30 a 34),Enero,Domingo,Santander,Landázuri,Violenta - Homicidios,Datos definitivos
+368,2016,Hombre,(55 a 59),Enero,Sábado,Antioquia,Puerto Berrío,Violenta - Homicidios,Datos definitivos
+369,2016,Hombre,(20 a 24),Enero,Viernes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+370,2016,Hombre,(30 a 34),Enero,Viernes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+371,2016,Hombre,(30 a 34),Enero,Lunes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+372,2016,Hombre,(35 a 39),Enero,Viernes,Norte de Santander,Chitagá,Violenta - Homicidios,Datos definitivos
+373,2016,Hombre,(25 a 29),Enero,Martes,Norte de Santander,Salazar,Violenta - Homicidios,Datos definitivos
+374,2016,Hombre,(65 a 69),Enero,Martes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+375,2016,Hombre,(45 a 49),Enero,Miércoles,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+376,2016,Hombre,(25 a 29),Enero,Jueves,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+377,2016,Hombre,(20 a 24),Enero,Jueves,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+378,2016,Hombre,(20 a 24),Enero,Viernes,Norte de Santander,Teorama,Violenta - Homicidios,Datos definitivos
+379,2016,Hombre,(30 a 34),Enero,Viernes,Norte de Santander,Teorama,Violenta - Homicidios,Datos definitivos
+380,2016,Mujer,(35 a 39),Enero,Viernes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+381,2016,Hombre,(45 a 49),Enero,Viernes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+382,2016,Hombre,(20 a 24),Enero,Domingo,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+383,2016,Hombre,(30 a 34),Enero,Domingo,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+384,2016,Hombre,(30 a 34),Enero,Domingo,Norte de Santander,Tibú,Violenta - Homicidios,Datos definitivos
+385,2016,Hombre,(45 a 49),Enero,Martes,Norte de Santander,Sardinata,Violenta - Homicidios,Datos definitivos
+386,2016,Hombre,(35 a 39),Enero,Martes,Norte de Santander,Sardinata,Violenta - Homicidios,Datos definitivos
+387,2016,Hombre,(55 a 59),Enero,Martes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+388,2016,Hombre,(20 a 24),Enero,Sábado,Norte de Santander,Sardinata,Violenta - Homicidios,Datos definitivos
+389,2016,Hombre,(35 a 39),Enero,Domingo,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+390,2016,Hombre,(35 a 39),Enero,Domingo,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+391,2016,Hombre,(00 a 04),Enero,Lunes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+392,2016,Hombre,(25 a 29),Enero,Miércoles,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+393,2016,Hombre,(15 a 17),Enero,Jueves,Norte de Santander,Villa del Rosario,Violenta - Homicidios,Datos definitivos
+394,2016,Hombre,(25 a 29),Enero,Viernes,Norte de Santander,Bucarasica,Violenta - Homicidios,Datos definitivos
+395,2016,Hombre,(25 a 29),Enero,Viernes,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+396,2016,Hombre,(30 a 34),Enero,Viernes,Norte de Santander,Puerto Santander,Violenta - Homicidios,Datos definitivos
+397,2016,Hombre,(55 a 59),Enero,Domingo,Norte de Santander,Tibú,Violenta - Homicidios,Datos definitivos
+398,2016,Hombre,(35 a 39),Enero,Martes,Norte de Santander,Puerto Santander,Violenta - Homicidios,Datos definitivos
+399,2016,Mujer,(30 a 34),Enero,Jueves,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+400,2016,Hombre,(30 a 34),Enero,Domingo,Norte de Santander,Cúcuta,Violenta - Homicidios,Datos definitivos
+401,2016,Hombre,(20 a 24),Enero,Sábado,Antioquia,Carepa,Violenta - Homicidios,Datos definitivos
+402,2016,Hombre,(55 a 59),Enero,Viernes,Boyacá,Susacón,Violenta - Homicidios,Datos definitivos
+403,2016,Mujer,(30 a 34),Enero,Jueves,Boyacá,Duitama,Violenta - Homicidios,Datos definitivos
+404,2016,Hombre,(40 a 44),Enero,Sábado,Magdalena,El Banco,Violenta - Homicidios,Datos definitivos
+405,2016,Hombre,(35 a 39),Enero,Miércoles,Antioquia,Envigado,Violenta - Homicidios,Datos definitivos
+406,2016,Hombre,(20 a 24),Enero,Viernes,Tolima,Espinal,Violenta - Homicidios,Datos definitivos
+407,2016,Hombre,(70 a 74),Enero,Viernes,Tolima,Espinal,Violenta - Homicidios,Datos definitivos
+408,2016,Hombre,(15 a 17),Enero,Miércoles,Tolima,Rovira,Violenta - Homicidios,Datos definitivos
+409,2016,Mujer,(30 a 34),Enero,Domingo,Cundinamarca,Facatativá,Violenta - Homicidios,Datos definitivos
+410,2016,Hombre,(40 a 44),Enero,Domingo,Cundinamarca,Facatativá,Violenta - Homicidios,Datos definitivos
+411,2016,Mujer,(45 a 49),Enero,Jueves,Caquetá,Florencia,Violenta - Homicidios,Datos definitivos
+412,2016,Hombre,(18 a 19),Enero,Sábado,Caquetá,San Vicente del Caguán,Violenta - Homicidios,Datos definitivos
+413,2016,Hombre,(25 a 29),Enero,Domingo,Caquetá,Florencia,Violenta - Homicidios,Datos definitivos
+414,2016,Mujer,(20 a 24),Enero,Jueves,Caquetá,Puerto Rico,Violenta - Homicidios,Datos definitivos
+415,2016,Hombre,(35 a 39),Enero,Domingo,La Guajira,Fonseca,Violenta - Homicidios,Datos definitivos
+416,2016,Hombre,(25 a 29),Enero,Miércoles,La Guajira,Barrancas,Violenta - Homicidios,Datos definitivos
+417,2016,Hombre,(35 a 39),Enero,Sábado,Antioquia,Fredonia,Violenta - Homicidios,Datos definitivos
+418,2016,Hombre,(40 a 44),Enero,Sábado,Magdalena,Fundación,Violenta - Homicidios,Datos definitivos
+419,2016,Hombre,(20 a 24),Enero,Sábado,Magdalena,Fundación,Violenta - Homicidios,Datos definitivos
+420,2016,Hombre,(25 a 29),Enero,Sábado,Magdalena,Fundación,Violenta - Homicidios,Datos definitivos
+421,2016,Hombre,(30 a 34),Enero,Sábado,Cundinamarca,Fusagasugá,Violenta - Homicidios,Datos definitivos
+422,2016,Hombre,(30 a 34),Enero,Domingo,Cundinamarca,Fusagasugá,Violenta - Homicidios,Datos definitivos
+423,2016,Hombre,(30 a 34),Enero,Lunes,Cundinamarca,Fusagasugá,Violenta - Homicidios,Datos definitivos
+424,2016,Hombre,(30 a 34),Enero,Domingo,Cundinamarca,Fusagasugá,Violenta - Homicidios,Datos definitivos
+425,2016,Hombre,(20 a 24),Enero,Miércoles,Huila,Garzón,Violenta - Homicidios,Datos definitivos
+426,2016,Hombre,(35 a 39),Enero,Domingo,Cundinamarca,Girardot,Violenta - Homicidios,Datos definitivos
+427,2016,Hombre,(20 a 24),Enero,Sábado,Tolima,Flandes,Violenta - Homicidios,Datos definitivos
+428,2016,Hombre,(25 a 29),Enero,Jueves,Cundinamarca,Girardot,Violenta - Homicidios,Datos definitivos
+429,2016,Hombre,(25 a 29),Enero,Jueves,Tolima,Flandes,Violenta - Homicidios,Datos definitivos
+430,2016,Hombre,(25 a 29),Enero,Jueves,Meta,Granada,Violenta - Homicidios,Datos definitivos
+431,2016,Hombre,(15 a 17),Enero,Viernes,Meta,Granada,Violenta - Homicidios,Datos definitivos
+432,2016,Hombre,(30 a 34),Enero,Jueves,Meta,Granada,Violenta - Homicidios,Datos definitivos
+433,2016,Hombre,(75 a 79),Enero,Domingo,Meta,San Juan de Arama,Violenta - Homicidios,Datos definitivos
+434,2016,Hombre,(30 a 34),Enero,Viernes,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+435,2016,Hombre,(20 a 24),Enero,Sábado,Tolima,Lérida,Violenta - Homicidios,Datos definitivos
+436,2016,Mujer,(00 a 04),Enero,Lunes,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+437,2016,Hombre,(30 a 34),Enero,Martes,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+438,2016,Hombre,(20 a 24),Enero,Martes,Tolima,Líbano,Violenta - Homicidios,Datos definitivos
+439,2016,Mujer,(40 a 44),Enero,Sábado,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+440,2016,Hombre,(20 a 24),Enero,Domingo,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+441,2016,Hombre,(25 a 29),Enero,Domingo,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+442,2016,Hombre,(35 a 39),Enero,Sábado,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+443,2016,Hombre,(70 a 74),Enero,Viernes,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+444,2016,Hombre,(30 a 34),Enero,Jueves,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+445,2016,Hombre,(30 a 34),Enero,Domingo,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+446,2016,Hombre,(25 a 29),Enero,Miércoles,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+447,2016,Hombre,(35 a 39),Enero,Viernes,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+448,2016,Hombre,(30 a 34),Enero,Domingo,Tolima,Ibagué,Violenta - Homicidios,Datos definitivos
+449,2016,Hombre,(20 a 24),Enero,Domingo,Nariño,Ipiales,Violenta - Homicidios,Datos definitivos
+450,2016,Hombre,(50 a 54),Enero,Viernes,Chocó,Istmina,Violenta - Homicidios,Datos definitivos
+451,2016,Hombre,(35 a 39),Enero,Lunes,Antioquia,Ebéjico,Violenta - Homicidios,Datos definitivos
+452,2016,Hombre,(40 a 44),Enero,Domingo,Antioquia,La Estrella,Violenta - Homicidios,Datos definitivos
+453,2016,Mujer,(45 a 49),Enero,Lunes,Antioquia,Itagüí,Violenta - Homicidios,Datos definitivos
+454,2016,Hombre,(50 a 54),Enero,Martes,Antioquia,Itagüí,Violenta - Homicidios,Datos definitivos
+455,2016,Hombre,(15 a 17),Enero,Domingo,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+456,2016,Hombre,(15 a 17),Enero,Domingo,Antioquia,La Ceja,Violenta - Homicidios,Datos definitivos
+457,2016,Hombre,(25 a 29),Enero,Domingo,Caldas,La Dorada,Violenta - Homicidios,Datos definitivos
+458,2016,Hombre,(25 a 29),Enero,Lunes,Caldas,La Dorada,Violenta - Homicidios,Datos definitivos
+459,2016,Hombre,(55 a 59),Enero,Martes,Caldas,La Dorada,Violenta - Homicidios,Datos definitivos
+460,2016,Hombre,(55 a 59),Enero,Martes,Caldas,La Dorada,Violenta - Homicidios,Datos definitivos
+461,2016,Hombre,(45 a 49),Enero,Viernes,Amazonas,Leticia,Violenta - Homicidios,Datos definitivos
+462,2016,Hombre,(25 a 29),Enero,Viernes,Tolima,Líbano,Violenta - Homicidios,Datos definitivos
+463,2016,Hombre,(25 a 29),Enero,Sábado,Córdoba,San Antero,Violenta - Homicidios,Datos definitivos
+464,2016,Hombre,(25 a 29),Enero,Martes,Córdoba,Lorica,Violenta - Homicidios,Datos definitivos
+465,2016,Mujer,(60 a 64),Enero,Martes,Bolívar,Magangué,Violenta - Homicidios,Datos definitivos
+466,2016,Hombre,(25 a 29),Enero,Miércoles,Bolívar,Tiquisio,Violenta - Homicidios,Datos definitivos
+467,2016,Hombre,(35 a 39),Enero,Jueves,Sucre,Buenavista,Violenta - Homicidios,Datos definitivos
+468,2016,Hombre,(35 a 39),Enero,Domingo,Bolívar,Magangué,Violenta - Homicidios,Datos definitivos
+469,2016,Hombre,(30 a 34),Enero,Miércoles,Bolívar,Cicuco,Violenta - Homicidios,Datos definitivos
+470,2016,Mujer,(60 a 64),Enero,Miércoles,Bolívar,Cicuco,Violenta - Homicidios,Datos definitivos
+471,2016,Hombre,(55 a 59),Enero,Jueves,Bolívar,Tiquisio,Violenta - Homicidios,Datos definitivos
+472,2016,Hombre,(35 a 39),Enero,Jueves,Bolívar,Tiquisio,Violenta - Homicidios,Datos definitivos
+473,2016,Hombre,(30 a 34),Enero,Jueves,La Guajira,Maicao,Violenta - Homicidios,Datos definitivos
+474,2016,Hombre,(20 a 24),Enero,Viernes,La Guajira,Maicao,Violenta - Homicidios,Datos definitivos
+475,2016,Hombre,(10 a 14),Enero,Domingo,La Guajira,Maicao,Violenta - Homicidios,Datos definitivos
+476,2016,Hombre,(20 a 24),Enero,Martes,La Guajira,Maicao,Violenta - Homicidios,Datos definitivos
+477,2016,Hombre,(25 a 29),Enero,Miércoles,La Guajira,Maicao,Violenta - Homicidios,Datos definitivos
+478,2016,Hombre,(55 a 59),Enero,Sábado,Caldas,Manizales,Violenta - Homicidios,Datos definitivos
+479,2016,Hombre,(18 a 19),Enero,Sábado,Caldas,Manizales,Violenta - Homicidios,Datos definitivos
+480,2016,Hombre,(30 a 34),Enero,Miércoles,Caldas,Villamaría,Violenta - Homicidios,Datos definitivos
+481,2016,Hombre,(60 a 64),Enero,Domingo,Caldas,Manizales,Violenta - Homicidios,Datos definitivos
+482,2016,Hombre,(20 a 24),Enero,Martes,Caldas,Filadelfia,Violenta - Homicidios,Datos definitivos
+483,2016,Hombre,(20 a 24),Enero,Miércoles,Caldas,Manizales,Violenta - Homicidios,Datos definitivos
+484,2016,Hombre,(45 a 49),Enero,Martes,Caldas,Manizales,Violenta - Homicidios,Datos definitivos
+485,2016,Hombre,(15 a 17),Enero,Martes,Caldas,Manizales,Violenta - Homicidios,Datos definitivos
+486,2016,Hombre,(50 a 54),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+487,2016,Hombre,(20 a 24),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+488,2016,Mujer,(25 a 29),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+489,2016,Hombre,(60 a 64),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+490,2016,Hombre,(30 a 34),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+491,2016,Hombre,(30 a 34),Enero,Lunes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+492,2016,Hombre,(25 a 29),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+493,2016,Hombre,(25 a 29),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+494,2016,Hombre,(35 a 39),Enero,Viernes,Antioquia,Itagüí,Violenta - Homicidios,Datos definitivos
+495,2016,Hombre,(65 a 69),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+496,2016,Hombre,(25 a 29),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+497,2016,Hombre,(35 a 39),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+498,2016,Hombre,(20 a 24),Enero,Lunes,Antioquia,Caldas,Violenta - Homicidios,Datos definitivos
+499,2016,Hombre,(30 a 34),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+500,2016,Hombre,(40 a 44),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+501,2016,Hombre,(35 a 39),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+502,2016,Hombre,(30 a 34),Enero,Miércoles,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+503,2016,Hombre,(55 a 59),Enero,Miércoles,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+504,2016,Hombre,(65 a 69),Enero,Miércoles,Antioquia,Girardota,Violenta - Homicidios,Datos definitivos
+505,2016,Hombre,(25 a 29),Enero,Jueves,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+506,2016,Hombre,(55 a 59),Enero,Jueves,Antioquia,Salgar,Violenta - Homicidios,Datos definitivos
+507,2016,Hombre,(30 a 34),Enero,Jueves,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+508,2016,Hombre,(55 a 59),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+509,2016,Hombre,(18 a 19),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+510,2016,Hombre,(20 a 24),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+511,2016,Hombre,(20 a 24),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+512,2016,Hombre,(25 a 29),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+513,2016,Hombre,(35 a 39),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+514,2016,Hombre,(35 a 39),Enero,Domingo,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+515,2016,Hombre,(18 a 19),Enero,Lunes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+516,2016,Hombre,(20 a 24),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+517,2016,Hombre,(18 a 19),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+518,2016,Hombre,(35 a 39),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+519,2016,Mujer,(45 a 49),Enero,Miércoles,Antioquia,Girardota,Violenta - Homicidios,Datos definitivos
+520,2016,Mujer,(18 a 19),Enero,Miércoles,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+521,2016,Hombre,(20 a 24),Enero,Miércoles,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+522,2016,Hombre,(20 a 24),Enero,Jueves,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+523,2016,Hombre,(15 a 17),Enero,Jueves,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+524,2016,Hombre,(20 a 24),Enero,Viernes,Antioquia,Bello,Violenta - Homicidios,Datos definitivos
+525,2016,Mujer,(15 a 17),Enero,Lunes,Antioquia,Rionegro,Violenta - Homicidios,Datos definitivos
+526,2016,Hombre,(25 a 29),Enero,Sábado,Antioquia,Bello,Violenta - Homicidios,Datos definitivos
+527,2016,Hombre,(25 a 29),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+528,2016,Hombre,(40 a 44),Enero,Domingo,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+529,2016,Hombre,(55 a 59),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+530,2016,Hombre,(20 a 24),Enero,Domingo,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+531,2016,Hombre,(70 a 74),Enero,Lunes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+532,2016,Hombre,(35 a 39),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+533,2016,Hombre,(15 a 17),Enero,Martes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+534,2016,Hombre,(40 a 44),Enero,Miércoles,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+535,2016,Hombre,(30 a 34),Enero,Jueves,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+536,2016,Mujer,(20 a 24),Enero,Miércoles,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+537,2016,Hombre,(35 a 39),Enero,Sábado,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+538,2016,Hombre,(25 a 29),Enero,Viernes,Antioquia,Medellín,Violenta - Homicidios,Datos definitivos
+539,2016,Hombre,(30 a 34),Enero,Sábado,Antioquia,Bello,Violenta - Homicidios,Datos definitivos
+540,2016,Hombre,(30 a 34),Enero,Martes,Córdoba,Montelíbano,Violenta - Homicidios,Datos definitivos
+541,2016,Hombre,(20 a 24),Enero,Martes,Córdoba,Montelíbano,Violenta - Homicidios,Datos definitivos
+542,2016,Hombre,(20 a 24),Enero,Lunes,Antioquia,Cáceres,Violenta - Homicidios,Datos definitivos
+543,2016,Hombre,(25 a 29),Enero,Martes,Córdoba,Montelíbano,Violenta - Homicidios,Datos definitivos
+544,2016,Hombre,(30 a 34),Enero,Sábado,Córdoba,Montelíbano,Violenta - Homicidios,Datos definitivos
+545,2016,Hombre,(20 a 24),Enero,Domingo,Córdoba,Montelíbano,Violenta - Homicidios,Datos definitivos
+546,2016,Hombre,(15 a 17),Enero,Martes,Antioquia,El Bagre,Violenta - Homicidios,Datos definitivos
+547,2016,Hombre,(15 a 17),Enero,Miércoles,Antioquia,El Bagre,Violenta - Homicidios,Datos definitivos
+548,2016,Hombre,(18 a 19),Enero,Miércoles,Antioquia,El Bagre,Violenta - Homicidios,Datos definitivos
+549,2016,Hombre,(30 a 34),Enero,Sábado,Antioquia,El Bagre,Violenta - Homicidios,Datos definitivos
+550,2016,Hombre,(25 a 29),Enero,Jueves,Antioquia,Zaragoza,Violenta - Homicidios,Datos definitivos
+551,2016,Hombre,(15 a 17),Enero,Martes,Antioquia,El Bagre,Violenta - Homicidios,Datos definitivos
+552,2016,Hombre,(20 a 24),Enero,Lunes,Antioquia,El Bagre,Violenta - Homicidios,Datos definitivos
+553,2016,Hombre,(35 a 39),Enero,Martes,Córdoba,Puerto Escondido,Violenta - Homicidios,Datos definitivos
+554,2016,Hombre,(20 a 24),Enero,Miércoles,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+555,2016,Hombre,(30 a 34),Enero,Miércoles,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+556,2016,Hombre,(65 a 69),Enero,Viernes,Córdoba,Buenavista,Violenta - Homicidios,Datos definitivos
+557,2016,Hombre,(45 a 49),Enero,Sábado,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+558,2016,Hombre,(50 a 54),Enero,Martes,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+559,2016,Hombre,(18 a 19),Enero,Domingo,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+560,2016,Hombre,(25 a 29),Enero,Viernes,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+561,2016,Hombre,(35 a 39),Enero,Viernes,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+562,2016,Hombre,(30 a 34),Enero,Viernes,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+563,2016,Hombre,(20 a 24),Enero,Sábado,Córdoba,Montería,Violenta - Homicidios,Datos definitivos
+564,2016,Mujer,(40 a 44),Enero,Martes,Cundinamarca,Tocancipá,Violenta - Homicidios,Datos definitivos
+565,2016,Hombre,(55 a 59),Enero,Viernes,Santander,Guaca,Violenta - Homicidios,Datos definitivos
+566,2016,Hombre,(20 a 24),Enero,Viernes,Antioquia,Mutatá,Violenta - Homicidios,Datos definitivos
+567,2016,Hombre,(30 a 34),Enero,Viernes,Huila,La Plata,Violenta - Homicidios,Datos definitivos
+568,2016,Hombre,(20 a 24),Enero,Viernes,Huila,Palermo,Violenta - Homicidios,Datos definitivos
+569,2016,Hombre,(15 a 17),Enero,Domingo,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+570,2016,Hombre,(60 a 64),Enero,Miércoles,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+571,2016,Hombre,(45 a 49),Enero,Jueves,Cauca,Páez,Violenta - Homicidios,Datos definitivos
+572,2016,Hombre,(40 a 44),Enero,Jueves,Huila,Palermo,Violenta - Homicidios,Datos definitivos
+573,2016,Hombre,(25 a 29),Enero,Viernes,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+574,2016,Hombre,(20 a 24),Enero,Sábado,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+575,2016,Hombre,(25 a 29),Enero,Sábado,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+576,2016,Mujer,(50 a 54),Enero,Jueves,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+577,2016,Hombre,(25 a 29),Enero,Domingo,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+578,2016,Hombre,(35 a 39),Enero,Domingo,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+579,2016,Hombre,(35 a 39),Enero,Lunes,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+580,2016,Hombre,(30 a 34),Enero,Jueves,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+581,2016,Hombre,(25 a 29),Enero,Domingo,Huila,Neiva,Violenta - Homicidios,Datos definitivos
+582,2016,Hombre,(35 a 39),Enero,Viernes,Huila,Algeciras,Violenta - Homicidios,Datos definitivos
+583,2016,Hombre,(25 a 29),Enero,Jueves,Huila,Baraya,Violenta - Homicidios,Datos definitivos
+584,2016,Hombre,(40 a 44),Enero,Jueves,Huila,Villavieja,Violenta - Homicidios,Datos definitivos
+585,2016,Mujer,(35 a 39),Enero,Sábado,Norte de Santander,Ocaña,Violenta - Homicidios,Datos definitivos
+586,2016,Hombre,(40 a 44),Enero,Martes,Norte de Santander,Ocaña,Violenta - Homicidios,Datos definitivos
+587,2016,Mujer,(40 a 44),Enero,Sábado,Norte de Santander,San Calixto,Violenta - Homicidios,Datos definitivos
+588,2016,Hombre,(25 a 29),Enero,Viernes,Valle del Cauca,Florida,Violenta - Homicidios,Datos definitivos
+589,2016,Hombre,(30 a 34),Enero,Viernes,Valle del Cauca,El Cerrito,Violenta - Homicidios,Datos definitivos
+590,2016,Hombre,(30 a 34),Enero,Viernes,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+591,2016,Hombre,(40 a 44),Enero,Sábado,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+592,2016,Hombre,(30 a 34),Enero,Sábado,Valle del Cauca,Candelaria,Violenta - Homicidios,Datos definitivos
+593,2016,Hombre,(40 a 44),Enero,Martes,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+594,2016,Hombre,(45 a 49),Enero,Martes,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+595,2016,Hombre,(35 a 39),Enero,Miércoles,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+596,2016,Hombre,(30 a 34),Enero,Viernes,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+597,2016,Hombre,(35 a 39),Enero,Domingo,Valle del Cauca,Candelaria,Violenta - Homicidios,Datos definitivos
+598,2016,Hombre,(45 a 49),Enero,Jueves,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+599,2016,Hombre,(60 a 64),Enero,Viernes,Valle del Cauca,Candelaria,Violenta - Homicidios,Datos definitivos
+600,2016,Hombre,(15 a 17),Enero,Sábado,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+601,2016,Hombre,(15 a 17),Enero,Sábado,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+602,2016,Hombre,(25 a 29),Enero,Sábado,Valle del Cauca,Pradera,Violenta - Homicidios,Datos definitivos
+603,2016,Hombre,(25 a 29),Enero,Domingo,Valle del Cauca,Pradera,Violenta - Homicidios,Datos definitivos
+604,2016,Hombre,(10 a 14),Enero,Domingo,Valle del Cauca,Pradera,Violenta - Homicidios,Datos definitivos
+605,2016,Hombre,(20 a 24),Enero,Lunes,Valle del Cauca,El Cerrito,Violenta - Homicidios,Datos definitivos
+606,2016,Hombre,(18 a 19),Enero,Martes,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+607,2016,Hombre,(20 a 24),Enero,Miércoles,Valle del Cauca,Pradera,Violenta - Homicidios,Datos definitivos
+608,2016,Mujer,(30 a 34),Enero,Miércoles,Valle del Cauca,Florida,Violenta - Homicidios,Datos definitivos
+609,2016,Hombre,(20 a 24),Enero,Domingo,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+610,2016,Hombre,(15 a 17),Enero,Domingo,Valle del Cauca,Pradera,Violenta - Homicidios,Datos definitivos
+611,2016,Hombre,(25 a 29),Enero,Martes,Valle del Cauca,Palmira,Violenta - Homicidios,Datos definitivos
+612,2016,Hombre,(25 a 29),Enero,Martes,Valle del Cauca,Candelaria,Violenta - Homicidios,Datos definitivos
+613,2016,Hombre,(25 a 29),Enero,Viernes,Valle del Cauca,El Cerrito,Violenta - Homicidios,Datos definitivos
+614,2016,Hombre,(15 a 17),Enero,Sábado,Valle del Cauca,El Cerrito,Violenta - Homicidios,Datos definitivos
+615,2016,Mujer,(20 a 24),Enero,Sábado,Valle del Cauca,Florida,Violenta - Homicidios,Datos definitivos
+616,2016,Hombre,(25 a 29),Enero,Domingo,Valle del Cauca,Florida,Violenta - Homicidios,Datos definitivos
+617,2016,Hombre,(18 a 19),Enero,Martes,Norte de Santander,Labateca,Violenta - Homicidios,Datos definitivos
+618,2016,Hombre,(25 a 29),Enero,Viernes,Nariño,Pasto,Violenta - Homicidios,Datos definitivos
+619,2016,Hombre,(20 a 24),Enero,Viernes,Nariño,Pasto,Violenta - Homicidios,Datos definitivos
+620,2016,Hombre,(50 a 54),Enero,Jueves,Nariño,Pasto,Violenta - Homicidios,Datos definitivos
+621,2016,Hombre,(18 a 19),Enero,Lunes,Nariño,Pasto,Violenta - Homicidios,Datos definitivos
+622,2016,Hombre,(50 a 54),Enero,Miércoles,Nariño,Pasto,Violenta - Homicidios,Datos definitivos
+623,2016,Hombre,(45 a 49),Enero,Jueves,Nariño,Pasto,Violenta - Homicidios,Datos definitivos
+624,2016,Mujer,(25 a 29),Enero,Jueves,Putumayo,Puerto Asís,Violenta - Homicidios,Datos definitivos
+625,2016,Mujer,(35 a 39),Enero,Sábado,Nariño,El Rosario,Violenta - Homicidios,Datos definitivos
+626,2016,Hombre,(20 a 24),Enero,Sábado,Nariño,El Rosario,Violenta - Homicidios,Datos definitivos
+627,2016,Hombre,(20 a 24),Enero,Sábado,Nariño,Pasto,Violenta - Homicidios,Datos definitivos
+628,2016,Hombre,(20 a 24),Enero,Domingo,Cauca,Patía,Violenta - Homicidios,Datos definitivos
+629,2016,Hombre,(40 a 44),Enero,Sábado,Casanare,Paz de Ariporo,Violenta - Homicidios,Datos definitivos
+630,2016,Hombre,(30 a 34),Enero,Viernes,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+631,2016,Hombre,(20 a 24),Enero,Sábado,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+632,2016,Hombre,(18 a 19),Enero,Lunes,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+633,2016,Mujer,(25 a 29),Enero,Miércoles,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+634,2016,Hombre,(18 a 19),Enero,Jueves,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+635,2016,Hombre,(20 a 24),Enero,Jueves,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+636,2016,Hombre,(45 a 49),Enero,Viernes,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+637,2016,Hombre,(35 a 39),Enero,Miércoles,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+638,2016,Hombre,(35 a 39),Enero,Viernes,Risaralda,Dosquebradas,Violenta - Homicidios,Datos definitivos
+639,2016,Hombre,(75 a 79),Enero,Sábado,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+640,2016,Hombre,(25 a 29),Enero,Martes,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+641,2016,Hombre,(20 a 24),Enero,Martes,Risaralda,La Virginia,Violenta - Homicidios,Datos definitivos
+642,2016,Hombre,(25 a 29),Enero,Martes,Risaralda,Guática,Violenta - Homicidios,Datos definitivos
+643,2016,Mujer,(25 a 29),Enero,Martes,Risaralda,Guática,Violenta - Homicidios,Datos definitivos
+644,2016,Hombre,(25 a 29),Enero,Jueves,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+645,2016,Hombre,(25 a 29),Enero,Jueves,Caldas,Belalcázar,Violenta - Homicidios,Datos definitivos
+646,2016,Hombre,(20 a 24),Enero,Domingo,Risaralda,La Celia,Violenta - Homicidios,Datos definitivos
+647,2016,Hombre,(30 a 34),Enero,Martes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+648,2016,Mujer,(30 a 34),Enero,Martes,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+649,2016,Hombre,(45 a 49),Enero,Sábado,Risaralda,Pereira,Violenta - Homicidios,Datos definitivos
+650,2016,Indeterminado,(20 a 24),Enero,Martes,Quindío,Armenia,Violenta - Homicidios,Datos definitivos
+651,2016,Hombre,(30 a 34),Enero,Sábado,Risaralda,Dosquebradas,Violenta - Homicidios,Datos definitivos
+652,2016,Hombre,(25 a 29),Enero,Martes,Huila,Acevedo,Violenta - Homicidios,Datos definitivos
+653,2016,Hombre,(50 a 54),Enero,Viernes,Huila,Palestina,Violenta - Homicidios,Datos definitivos
+654,2016,Hombre,(40 a 44),Enero,Viernes,Huila,Pitalito,Violenta - Homicidios,Datos definitivos
+655,2016,Hombre,(20 a 24),Enero,Viernes,Huila,Isnos,Violenta - Homicidios,Datos definitivos
+656,2016,Hombre,(45 a 49),Enero,Martes,Huila,Oporapa,Violenta - Homicidios,Datos definitivos
+657,2016,Hombre,(20 a 24),Enero,Domingo,Huila,Pitalito,Violenta - Homicidios,Datos definitivos
+658,2016,Hombre,(55 a 59),Enero,Martes,Huila,Pitalito,Violenta - Homicidios,Datos definitivos
+659,2016,Hombre,(40 a 44),Enero,Sábado,Huila,Pitalito,Violenta - Homicidios,Datos definitivos
+660,2016,Hombre,(25 a 29),Enero,Domingo,Huila,San Agustín,Violenta - Homicidios,Datos definitivos
+661,2016,Hombre,(30 a 34),Enero,Lunes,Magdalena,Nueva Granada,Violenta - Homicidios,Datos definitivos
+662,2016,Hombre,(60 a 64),Enero,Martes,Magdalena,Ariguaní,Violenta - Homicidios,Datos definitivos
+663,2016,Hombre,(20 a 24),Enero,Sábado,Cauca,Popayán,Violenta - Homicidios,Datos definitivos
+664,2016,Hombre,(30 a 34),Enero,Sábado,Cauca,Popayán,Violenta - Homicidios,Datos definitivos
+665,2016,Hombre,(40 a 44),Enero,Sábado,Cauca,Popayán,Violenta - Homicidios,Datos definitivos
+666,2016,Hombre,(55 a 59),Enero,Miércoles,Cauca,Rosas,Violenta - Homicidios,Datos definitivos
+667,2016,Hombre,(30 a 34),Enero,Martes,Cauca,Timbío,Violenta - Homicidios,Datos definitivos
+668,2016,Hombre,(45 a 49),Enero,Lunes,Cauca,Popayán,Violenta - Homicidios,Datos definitivos
+669,2016,Hombre,(30 a 34),Enero,Jueves,Cauca,Popayán,Violenta - Homicidios,Datos definitivos
+670,2016,Mujer,(60 a 64),Enero,Viernes,Cauca,Popayán,Violenta - Homicidios,Datos definitivos
+671,2016,Hombre,(40 a 44),Enero,Sábado,Cauca,Popayán,Violenta - Homicidios,Datos definitivos
+672,2016,Hombre,(50 a 54),Enero,Domingo,Cauca,Guapí,Violenta - Homicidios,Datos definitivos
+673,2016,Mujer,(40 a 44),Enero,Viernes,Putumayo,Puerto Leguízamo,Violenta - Homicidios,Datos definitivos
+674,2016,Hombre,(20 a 24),Enero,Lunes,Antioquia,Amalfi,Violenta - Homicidios,Datos definitivos
+675,2016,Hombre,(50 a 54),Enero,Domingo,Antioquia,Cisneros,Violenta - Homicidios,Datos definitivos
+676,2016,Hombre,(30 a 34),Enero,Lunes,Meta,Puerto Gaitán,Violenta - Homicidios,Datos definitivos
+677,2016,Hombre,(15 a 17),Enero,Viernes,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+678,2016,Hombre,(30 a 34),Enero,Viernes,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+679,2016,Hombre,(25 a 29),Enero,Sábado,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+680,2016,Hombre,(20 a 24),Enero,Jueves,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+681,2016,Hombre,(25 a 29),Enero,Viernes,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+682,2016,Hombre,(30 a 34),Enero,Viernes,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+683,2016,Hombre,(35 a 39),Enero,Sábado,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+684,2016,Hombre,(20 a 24),Enero,Domingo,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+685,2016,Hombre,(20 a 24),Enero,Domingo,Chocó,Bojayá,Violenta - Homicidios,Datos definitivos
+686,2016,Hombre,(15 a 17),Enero,Domingo,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+687,2016,Hombre,(18 a 19),Enero,Lunes,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+688,2016,Mujer,(25 a 29),Enero,Sábado,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+689,2016,Hombre,(35 a 39),Enero,Domingo,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+690,2016,Hombre,(35 a 39),Enero,Jueves,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+691,2016,Mujer,(20 a 24),Enero,Domingo,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+692,2016,Hombre,(20 a 24),Enero,Sábado,Chocó,Quibdó,Violenta - Homicidios,Datos definitivos
+693,2016,Hombre,(40 a 44),Enero,Viernes,La Guajira,Riohacha,Violenta - Homicidios,Datos definitivos
+694,2016,Hombre,(25 a 29),Enero,Viernes,La Guajira,Riohacha,Violenta - Homicidios,Datos definitivos
+695,2016,Hombre,(10 a 14),Enero,Lunes,La Guajira,Riohacha,Violenta - Homicidios,Datos definitivos
+696,2016,Hombre,(70 a 74),Enero,Martes,La Guajira,Riohacha,Violenta - Homicidios,Datos definitivos
+697,2016,Hombre,(45 a 49),Enero,Sábado,La Guajira,Riohacha,Violenta - Homicidios,Datos definitivos
+698,2016,Hombre,(60 a 64),Enero,Domingo,Antioquia,Rionegro,Violenta - Homicidios,Datos definitivos
+699,2016,Hombre,(25 a 29),Enero,Miércoles,Antioquia,Rionegro,Violenta - Homicidios,Datos definitivos
+700,2016,Hombre,(35 a 39),Enero,Lunes,Antioquia,Rionegro,Violenta - Homicidios,Datos definitivos
+701,2016,Hombre,(25 a 29),Enero,Domingo,Antioquia,Marinilla,Violenta - Homicidios,Datos definitivos
+702,2016,Hombre,(35 a 39),Enero,Viernes,Antioquia,Caldas,Violenta - Homicidios,Datos definitivos
+703,2016,Hombre,(30 a 34),Enero,Domingo,Caldas,Supía,Violenta - Homicidios,Datos definitivos
+704,2016,Hombre,(45 a 49),Enero,Domingo,Caldas,Riosucio,Violenta - Homicidios,Datos definitivos
+705,2016,Hombre,(18 a 19),Enero,Viernes,Risaralda,Quinchía,Violenta - Homicidios,Datos definitivos
+706,2016,Hombre,(50 a 54),Enero,Martes,Valle del Cauca,Zarzal,Violenta - Homicidios,Datos definitivos
+707,2016,Hombre,(25 a 29),Enero,Martes,Valle del Cauca,La Unión,Violenta - Homicidios,Datos definitivos
+708,2016,Hombre,(18 a 19),Enero,Domingo,Valle del Cauca,Roldanillo,Violenta - Homicidios,Datos definitivos
+709,2016,Hombre,(18 a 19),Enero,Sábado,Valle del Cauca,Toro,Violenta - Homicidios,Datos definitivos
+710,2016,Hombre,(25 a 29),Enero,Domingo,Valle del Cauca,La Victoria,Violenta - Homicidios,Datos definitivos
+
+
